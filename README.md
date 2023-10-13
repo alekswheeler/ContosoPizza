@@ -91,5 +91,5 @@ I look forward to continuing to explore and enhance this project, making the mos
 
 ## Next Steps:
 
-Implement data persistence using [Entity Framework Core](https://learn.microsoft.com/pt-br/training/modules/persist-data-ef-core/) in the upcoming tutorial.
-Study some of the base controller classes in ASP.NET Core.
+- Implement data persistence using [Entity Framework Core](https://learn.microsoft.com/pt-br/training/modules/persist-data-ef-core/) in the upcoming tutorial.
+- Study some of the base controller classes in ASP.NET Core.
